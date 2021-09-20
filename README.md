@@ -5,8 +5,8 @@ Ceci est un dépôt test pour le module introduction à Github
 
 Voici quelques commandes :
 
-- 'dir' : lister les fichiers
-- 'mkdir' : créer
+- `dir` : lister les fichiers
+- `mkdir` : créer
 - ...
 
 ### titre niveau 3
